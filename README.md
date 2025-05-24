@@ -1,7 +1,5 @@
 # erc-convener-training-week2
 
-## 🧠 Topics Covered
-
 ## 📘 Topics Covered
 
 ### 1. Microcontroller: Code to Hardware
