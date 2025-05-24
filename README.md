@@ -23,8 +23,6 @@
 
   **🔗 Resources:**
 - [Serial coomunication - electronoobs yt](https://youtu.be/IyGwvGzrqp8?si=Vi9zwD4XeH57FRZj)
-- [SPI Explained – SparkFun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
-- [I2C Explained - Geeksforgeeks](https://www.geeksforgeeks.org/i2c-communication-protocol/)
 - [UART Explained – Geeksforgeeks](https://www.geeksforgeeks.org/universal-asynchronous-receiver-transmitter-uart-protocol/)
 - [USB -Medium](https://medium.com/@manuel.bl/usb-for-microcontrollers-part-1-basic-usb-concepts-519a33372cc9)
 - [MPU6050 with Arduino (Wire.h) – Circuit Digest](https://circuitdigest.com/microcontroller-projects/interfacing-mpu6050-module-with-arduino)
@@ -34,6 +32,10 @@
 ### 4. SPI Modes, I2C Addresses & Bus Systems
 - Understanding SPI modes, I2C addressing, and how devices communicate on shared buses.
 - Overview of a sensor → microcontroller → actuator flow.
+
+  **🔗 Resources:**
+- [SPI Explained – SparkFun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
+- [I2C Explained - Geeksforgeeks](https://www.geeksforgeeks.org/i2c-communication-protocol/)
 
 ### 5. Data Storage
 - Storing data using EEPROM and external SD card modules.
